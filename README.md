@@ -17,3 +17,11 @@ The website includes structured sections like **Home, About, Services, and Conta
 - **JavaScript** – Interactive user interface behavior  
 - **Netlify** – Free hosting and automatic deployment
 
+## 👥 Contributors
+
+Thanks to everyone who contributed to this project:
+
+| Name | Role | GitHub |
+|------|------|--------|
+| Tomas Guzman | Frontend Developer / Project Creator | [@tomasgz7](https://github.com/tomasgz7) |
+| Matías Maizares | Backend Collaborator – Helped with backend integration and email form testing | [@matiasmaizares](https://github.com/matiasmaizares) |
