@@ -1,27 +1,36 @@
 # 🌐 Resilience Media Group
 
-This is a **prototype website** created for a **marketing and logistics agency**, designed to showcase a variety of professional services such as **digital marketing campaigns**, **messaging solutions**, and **logistics coordination**.  
+**Resilience Media Group** es un **sitio web prototipo** desarrollado para una **agencia de marketing y logística**, diseñado para mostrar servicios profesionales como **campañas de marketing digital**, **soluciones de mensajería** y **coordinación logística**.  
 
-The project was built with **HTML**, **Tailwind CSS**, and **JavaScript**, focusing on a **modern and responsive design** that adapts seamlessly to different screen sizes. The intention behind this prototype was to simulate the online presence of a real agency, highlighting its services in a clear and attractive way while maintaining usability and performance.  
+El proyecto fue construido con **HTML**, **Tailwind CSS** y **JavaScript**, enfocado en un diseño **moderno, responsivo y liviano**, que se adapta de forma fluida a distintos tamaños de pantalla.  
+El objetivo principal fue simular la presencia online de una agencia real, resaltando sus servicios de manera clara y atractiva, manteniendo siempre la usabilidad y el rendimiento como prioridad.  
 
-The website includes structured sections like **Home, About, Services, and Contact**, aiming to provide a professional layout that can easily be expanded into a full production site with backend integration if required.  
+El sitio incluye secciones estructuradas como **Inicio**, **Nosotros**, **Servicios** y **Contacto**, con una arquitectura lista para ser ampliada e integrada a un backend real si fuera necesario.  
 
-👉 **Live Version:** [resiliencemediagroup.netlify.app](https://68e64a55c2f057af362d1f88--resiliencemediagroup.netlify.app/)
+🌐 **Versión en línea:** [resiliencemediagroup.netlify.app](https://resiliencemediagroup.netlify.app/)
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologías utilizadas
 
-- **HTML5** – Semantic structure and accessibility  
-- **Tailwind CSS** – Modern, utility-first styling  
-- **JavaScript** – Interactive user interface behavior  
-- **Netlify** – Free hosting and automatic deployment
+- **HTML5** — Estructura semántica y accesibilidad  
+- **Tailwind CSS** — Estilos modernos con enfoque utility-first  
+- **JavaScript** — Interactividad y comportamiento dinámico en la interfaz  
+- **Netlify** — Hosting gratuito y despliegue automático  
 
-## 👥 Contributors
+---
 
-Thanks to everyone who contributed to this project:
+## 👥 Colaboradores
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Tomas Guzman | Frontend Developer / Project Creator | [@tomasgz7](https://github.com/tomasgz7) |
-| Matías Maizares | Backend Collaborator – Helped with backend integration and email form testing | [@matiasmaizares](https://github.com/matiasmaizares) |
+Agradecimientos a quienes participaron en el proyecto:
+
+| Nombre | Rol | GitHub |
+|--------|------|--------|
+| **Tomas Guzman** | Desarrollador Frontend / Creador del proyecto | [@tomasgz7](https://github.com/tomasgz7) |
+| **Matías Maizares** | Colaborador Backend — Integración y pruebas del formulario de contacto | [@matiasmaizares](https://github.com/matiasmaizares) |
+
+---
+
+<p align="center">
+  ⭐ <i>Este prototipo refleja mi enfoque: interfaces claras, rendimiento cuidado y código preparado para crecer.</i>
+</p>
