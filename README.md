@@ -1,36 +1,64 @@
-# 🌐 Resilience Media Group
+#  Resilience Media Group - Activo Web Institucional
 
-**Resilience Media Group** es un **sitio web prototipo** desarrollado para una **agencia de marketing y logística**, diseñado para mostrar servicios profesionales como **campañas de marketing digital**, **soluciones de mensajería** y **coordinación logística**.  
+##  Contexto
 
-El proyecto fue construido con **HTML**, **Tailwind CSS** y **JavaScript**, enfocado en un diseño **moderno, responsivo y liviano**, que se adapta de forma fluida a distintos tamaños de pantalla.  
-El objetivo principal fue simular la presencia online de una agencia real, resaltando sus servicios de manera clara y atractiva, manteniendo siempre la usabilidad y el rendimiento como prioridad.  
+Resilience Media Group necesitaba fortalecer su presencia digital y comunicar con mayor claridad su propuesta de valor, integrando servicios de marketing, producción y logística dentro de una estructura coherente.
 
-El sitio incluye secciones estructuradas como **Inicio**, **Nosotros**, **Servicios** y **Contacto**, con una arquitectura lista para ser ampliada e integrada a un backend real si fuera necesario.  
-
-🌐 **Versión en línea:** [resiliencemediagroup.netlify.app](https://resiliencemediagroup.netlify.app/)
+El proyecto surgió como respuesta a esa necesidad, con el objetivo de transformar información dispersa en una plataforma institucional capaz de acompañar el crecimiento comercial de la agencia.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Objetivo
 
-- **HTML5** — Estructura semántica y accesibilidad  
-- **Tailwind CSS** — Estilos modernos con enfoque utility-first  
-- **JavaScript** — Interactividad y comportamiento dinámico en la interfaz  
-- **Netlify** — Hosting gratuito y despliegue automático  
+Diseñar e implementar un sitio web que permitiera:
 
----
-
-## 👥 Colaboradores
-
-Agradecimientos a quienes participaron en el proyecto:
-
-| Nombre | Rol | GitHub |
-|--------|------|--------|
-| **Tomas Guzman** | Desarrollador Frontend / Creador del proyecto | [@tomasgz7](https://github.com/tomasgz7) |
-| **Matías Maizares** | Colaborador Backend — Integración y pruebas del formulario de contacto | [@matiasmaizares](https://github.com/matiasmaizares) |
+* Comunicar profesionalmente los servicios de la agencia
+* Organizar la oferta en una arquitectura clara
+* Mejorar la experiencia de navegación
+* Facilitar el contacto con potenciales clientes
 
 ---
 
-<p align="center">
-  ⭐ <i>Este prototipo refleja mi enfoque: interfaces claras, rendimiento cuidado y código preparado para crecer.</i>
-</p>
+##  Enfoque
+
+El trabajo fue abordado desde una mirada funcional, priorizando la comprensión del negocio antes que la implementación técnica.
+
+Las decisiones principales se centraron en:
+
+* estructurar la propuesta de valor
+* ordenar los servicios para mejorar su comprensión
+* diseñar una experiencia simple e intuitiva
+* crear una base digital preparada para escalar
+
+La tecnología actuó como medio para materializar una solución alineada con los objetivos de la organización.
+
+---
+
+##  Resultado
+
+El sitio sentó las bases para la presencia institucional de la agencia, funcionando como un activo digital preparado para evolucionar junto con el negocio.
+
+ **Versión online:** [https://resiliencemediagroup.netlify.app/](https://resiliencemediagroup.netlify.app/)
+
+---
+
+##  Rol
+
+**Tomas Guzman - Definición funcional, estructuración del sitio e implementación técnica.**
+
+Participé en la traducción de necesidades del negocio hacia una solución digital concreta, conectando decisiones funcionales con ejecución tecnológica.
+
+---
+
+##  Stack tecnológico
+
+* HTML
+* Tailwind CSS
+* JavaScript
+* Netlify
+
+---
+
+##  Colaboración
+
+**Matías Maizares** — Integración backend y pruebas del formulario de contacto.
