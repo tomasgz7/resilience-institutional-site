@@ -61,4 +61,4 @@ Participé en la traducción de necesidades del negocio hacia una solución digi
 
 ##  Colaboración
 
-**Matías Maizares** — Integración backend y pruebas del formulario de contacto.
+**Matías Maizares** - Integración backend y pruebas del formulario de contacto.
